@@ -1,4 +1,4 @@
-O projeto Meru é um sistema CRUD simples construído com o framework Quarkus, proporcionando uma aplicação Java eficiente e escalável. O foco principal é a gestão de produtos, utilizando operações CRUD e interagindo de forma otimizada com um banco de dados PostgreSQL.
+O projeto é um sistema CRUD simples construído com o framework Quarkus, proporcionando uma aplicação Java eficiente e escalável. O foco principal é a gestão de produtos, utilizando operações CRUD e interagindo de forma otimizada com um banco de dados PostgreSQL.
 
 A estrutura do projeto é composta por uma entidade chamada ProductEntity, responsável por representar os dados dos produtos. Além disso, há um serviço chamado ProductService, que contém a lógica de negócios relacionada aos produtos, e um controlador REST denominado ProductController para gerenciar as requisições HTTP.
 
